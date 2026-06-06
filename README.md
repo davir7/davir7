@@ -62,12 +62,9 @@ I also spend time exploring **electronics, process automation, and strategy**.
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=davir7&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davir7&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davir7&show_icons=true&theme=tokyonight&count_private=true)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davir7&layout=compact&theme=tokyonight)
 
 ## Core
 
