@@ -16,7 +16,7 @@ I also spend time exploring **electronics, process automation, and strategy**.
   <a href="https://github.com/davir7">
     <img src="https://img.shields.io/badge/GitHub-davir7-181717?style=for-the-badge&logo=github" />
   </a>
-  <br><br>
+  <br>
   <a href="https://linkedin.com/in/davirodrigueslokj">
     <img src="https://img.shields.io/badge/LinkedIn-DAVI RODRIGUES-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
