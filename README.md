@@ -1,7 +1,7 @@
 # Hi 👋, I'm Davi Rodrigues
 
 🚀 **Computer Science Student | Java & C Developer**  
-🇧🇷 Rio de Janeiro, Brazil
+🇧🇷 
 
 I build **backend APIs**, **academic projects**, and **hardware prototypes**.  
 I’m deeply focused on **software architecture, continuous learning, and clean code**.
